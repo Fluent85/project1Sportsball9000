@@ -35,6 +35,13 @@ Built with HTML5, css, Google Fonts, Bootstrap, and font awesome.
 Our website produces ticket information such as price range, parking info, and stadium entry guidelines.
 
 
+## How to use? 
+
+Simply click the link below
+
+https://fluent85.github.io/project1Sportsball9000/
+
+
 
 ## API Reference
 
