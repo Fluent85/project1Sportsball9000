@@ -10,6 +10,10 @@ Sportsball 9000 provides a uniquely immersive and all-encompassing experience th
 
 The user will be able to utilize the NFL team tab to select any one of the 32 teams.  From there, they will be able to use our site as a resource to learn more about each team (including stadium information, parking, date of games, price range, and entry information).  Our website is unique in its dual functionality as both an informational database and as a ticket vendor.
 
+Simply click the link below
+
+https://fluent85.github.io/project1Sportsball9000/
+
 
 ## Screenshots
 
@@ -33,13 +37,6 @@ Built with HTML5, css, Google Fonts, Bootstrap, and font awesome.
 
 ## Features
 Our website produces ticket information such as price range, parking info, and stadium entry guidelines.
-
-
-## How to use? 
-
-Simply click the link below
-
-https://fluent85.github.io/project1Sportsball9000/
 
 
 
