@@ -30,7 +30,7 @@ https://fluent85.github.io/project1Sportsball9000/
 
 ## Tech/framework used
 
-Built with HTML5, css, Google Fonts, Bootstrap, and font awesome. 
+Built with HTML5, CSS3, Google Fonts, Bootstrap, JavaScript, jQuery, moment.js, and font awesome.
  <br> APIs used:<br>
 --[The Sports DB API](https://www.thesportsdb.com/api/v1/json/) <br>
 --[TicketMaster API](https://app.ticketmaster.com/discovery/v2/events.json?)
